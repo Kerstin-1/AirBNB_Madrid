@@ -1,0 +1,125 @@
+,tipo,lat,lon,name,address
+0,college,40.4107469,-3.7129528,Centro de enseñanza Afuera II,NO STREET 9999
+1,college,40.4259867,-3.6985632,Torval'l Formación,NO STREET 9999
+2,college,40.4219785,-3.7091246,Instituto Vox,NO STREET 9999
+3,college,40.4232128,-3.7100844,Quick,NO STREET 9999
+4,college,40.4143134,-3.7012985,Centro de enseñanza Afuera I,NO STREET 9999
+5,college,40.4157649,-3.7091042,Centro Teide II,NO STREET 9999
+6,college,40.4148943,-3.7035557,Centro de Formación Técnica,NO STREET 9999
+7,college,40.4259239,-3.698625,Torval'l Formación,NO STREET 9999
+8,college,40.4222168,-3.7141346,Centro de Estudios Turísticos Ábaco,NO STREET 9999
+9,college,40.4219683,-3.7091222,Instituto Vox (FP),NO STREET 9999
+10,college,40.4220517,-3.6906886,Instituto Superior de Derecho y Economía,NO STREET 9999
+11,college,40.4216656,-3.7072674,IED Madrid,Calle de la Flor Alta 8
+12,college,40.4228962,-3.7070523,IDEM,Calle de la Luna 19
+13,college,40.4224079,-3.7061228,Laocoonte,Calle de la Luna 20
+14,college,40.4202423,-3.7086547,Alliance Française,Cuesta de Santo Domingo 13
+15,college,40.426167,-3.7073135,Come mai?,Calle de San Vicente Ferrer 64
+16,college,40.4251346,-3.7051043,MacLuque School of English,Calle del Tesoro 14
+17,college,40.4236895,-3.7028536,devorador.es,Calle de El Escorial 3
+18,college,40.425965,-3.7055374,Quattrocento,Calle de San Vicente Ferrer 48
+19,college,40.4077392,-3.71104,Isa Escuela de Diseño y Moda,Calle de Toledo 119
+20,college,40.4214693,-3.7034944,Kitchen Club,Calle de la Ballesta 8
+21,college,40.421763,-3.7137542,trazos_,Cuesta de San Vicente 4
+22,college,40.4224217,-3.7069605,Academía Accede,Calle de la Estrella 20
+23,school,40.4262288,-3.7134168,Colegio Madres Concepcionistas,Calle de la Princesa 19
+24,school,40.4215066,-3.7021039,Colegio de las Madres Mercedarias de Don Juan de Alarcón,NO STREET 9999
+25,school,40.4205733,-3.7101674,I.E.S. Santa Teresa de Jesús,Calle Fomento 9
+26,school,40.4224323,-3.7098461,Dario Estudio,NO STREET 9999
+27,school,40.4267633,-3.6943266,Academia J.E.A.,NO STREET 9999
+28,school,40.4115325,-3.7067618,Antiguo Centro de Estudios Sol,Calle del Duque de Alba 15
+29,school,40.4111037,-3.6963686,Practivox,NO STREET 9999
+30,school,40.4090312,-3.6945232,Real Conservatorio Superior de Música de Madrid,NO STREET 9999
+31,school,40.412213,-3.707299,Escuela de Arte de Madrid N.3,NO STREET 9999
+32,school,40.4170421,-3.6954101,Escuela de Arte de Madrid N.2,NO STREET 9999
+33,school,40.4249909,-3.7090304,Conservatorio Profesional de Música,NO STREET 9999
+34,school,40.424745,-3.7146664,CEPA Moncloa,NO STREET 9999
+35,school,40.4263547,-3.7045344,Escuela de Música Creativa,NO STREET 9999
+36,school,40.4262692,-3.7044672,Escuela de Música Creativa -C.Estudios Profesionales,NO STREET 9999
+37,school,40.4162061,-3.6957416,Escuela de música Maese Pedro,NO STREET 9999
+38,school,40.422601,-3.7118847,Cambridge Institute,Plaza de España 6
+39,school,40.426217,-3.7123422,Don Quijote,Calle del Duque de Liria 6
+40,school,40.424513,-3.7074822,Escuela de Relaciones Laborales,Calle de San Bernardo 49
+41,school,40.4084958,-3.7005,UNED,Calle de Argumosa 3
+42,school,40.417057,-3.6956879,TANDEM,Calle del Marqués de Cubas 8
+43,school,40.4174158,-3.7068524,UNED Luis Vives,NO STREET 9999
+44,shop,40.4110206,-3.6947372,Chinos,NO STREET 9999
+45,shop,40.4129105,-3.6953446,Dia,Calle Huertas 9999
+46,shop,40.4125936,-3.7045819,Lidl,Plaza de Tirso de Molina 16
+47,shop,40.4083576,-3.7010047,Carrefour Market,Calle de Valencia 2
+48,shop,40.4254372,-3.7145505,Dia,NO STREET 9999
+49,shop,40.4204325,-3.6980433,Dia,NO STREET 9999
+50,shop,40.4122872,-3.7012279,Dia,NO STREET 9999
+51,shop,40.4220427,-3.69745,Supercor,NO STREET 9999
+52,shop,40.424502,-3.7095008,Suma,Plaza del Conde de Toreno 2
+53,shop,40.4112162,-3.6949414,Tiyoweh ecotienda,NO STREET 9999
+54,shop,40.4203301,-3.7085914,Dia Market,NO STREET 9999
+55,shop,40.4156102,-3.7012139,Suma,NO STREET 9999
+56,shop,40.4207711,-3.7095424,Supermercado SANTO DOMINGO,NO STREET 9999
+57,shop,40.4265335,-3.7068578,Rotterdam,Calle de San Bernardo 63
+58,shop,40.4265656,-3.7036466,Dia,Calle de San Andrés 12
+59,shop,40.4215515,-3.7050255,Carrefour,Calle de la Luna 4
+60,shop,40.4180846,-3.7084812,Suma,NO STREET 9999
+61,shop,40.4229448,-3.7032698,Dia Market,Corredera Baja de San Pablo 39
+62,shop,40.4108447,-3.7136495,Dia,NO STREET 9999
+63,shop,40.4262303,-3.7152117,Supersol,NO STREET 9999
+64,shop,40.4255514,-3.7043993,Super Internacional,Calle del Espíritu Santo 9999
+65,shop,40.4257867,-3.7091376,Udaco,NO STREET 9999
+66,shop,40.4267832,-3.7001518,Dia,Calle de Barceló 9
+67,shop,40.4078312,-3.6974766,Ahorramás,NO STREET 9999
+68,shop,40.4078483,-3.6975867,Dia,NO STREET 9999
+69,shop,40.419015,-3.7092183,Dia,Calle de Campomanes 6
+70,shop,40.4188686,-3.6997464,Dia Market,NO STREET 9999
+71,shop,40.4146533,-3.7053698,Suma,Calle de Atocha 9999
+72,shop,40.4233587,-3.707575,Dia,Calle de San Bernardo 35
+73,shop,40.4186109,-3.7082714,Dia,Costanilla de los Ángeles 6
+74,shop,40.4167427,-3.7107054,Dia,NO STREET 9999
+75,shop,40.41579,-3.709689,Covirán,Calle Mayor 9999
+76,shop,40.4116035,-3.7066014,Covirán,NO STREET 9999
+77,shop,40.4125391,-3.702931,Ya,NO STREET 9999
+78,shop,40.4095098,-3.6935056,Alimentación,NO STREET 9999
+79,shop,40.4255418,-3.7165643,NO NAME,NO STREET 30
+80,shop,40.4219968,-3.699778,Oh! My Bio,Calle de Hortaleza 38
+81,shop,40.4217756,-3.6972977,Veritas,Calle de la Libertad 24
+82,shop,40.4187835,-3.7093622,Dia,NO STREET 9999
+83,shop,40.4149038,-3.7049108,NO NAME,NO STREET 9999
+84,shop,40.4112954,-3.7072427,NO NAME,NO STREET 9999
+85,shop,40.4162686,-3.7021962,Biocentro La Canela,Calle de Espoz y Mina 3
+86,shop,40.407696,-3.7037927,Supercoop,NO STREET 9999
+87,shop,40.4126634,-3.7049309,Carrefour Market,NO STREET 9999
+88,shop,40.4144974,-3.6943695,Vicens - Turrones artesanos,NO STREET 9999
+89,shop,40.4075306,-3.6970423,Asalto de mata,NO STREET 9999
+90,shop,40.4099049,-3.6967171,Día Market,NO STREET 9999
+91,shop,40.4250863,-3.7023642,Carrefour Express,NO STREET 9999
+92,shop,40.4191441,-3.7080701,Frutería,NO STREET 9999
+93,shop,40.4108137,-3.7076222,Plaza Lavapiés,NO STREET 9999
+94,shop,40.4092951,-3.70183,NO NAME,NO STREET 9999
+95,shop,40.4101768,-3.7023959,NO NAME,NO STREET 9999
+96,shop,40.4109383,-3.7028415,NO NAME,NO STREET 9999
+97,shop,40.4114307,-3.7029998,NO NAME,NO STREET 9999
+98,shop,40.4125695,-3.7042471,Don Fruta,NO STREET 9999
+99,shop,40.4240854,-3.7063866,Dis Fruta,Calle del Pez 27
+100,shop,40.4259714,-3.7018529,Náufrago,Corredera Alta de San Pablo 25
+101,shop,40.4256416,-3.7086466,NO NAME,Calle de Noviciado 9
+102,shop,40.4251511,-3.7072631,Don Fruta,Calle de San Bernardo 54
+103,shop,40.4253515,-3.7034572,Frutería Andrea,Calle del Espíritu Santo 22
+104,shop,40.4096112,-3.7060538,¡Ay Madre! La Fruta,NO STREET 9999
+105,shop,40.424921,-3.7158402,Frutas Rosita,Calle de Ferraz 22
+106,shop,40.4220762,-3.6997283,Don Fruta,Calle de Hortaleza 40
+107,shop,40.4085034,-3.7107788,Frutería Toledo,Calle de Toledo 92
+108,shop,40.4079776,-3.7019462,NO NAME,NO STREET 9999
+109,clinic,40.4164906,-3.6989912,Centro de Salud Las Cortes,NO STREET 9999
+110,clinic,40.4265584,-3.7073497,Centro Salud Palma Norte,Calle de la Palma 59
+111,clinic,40.4258677,-3.7157976,Gloria Vañó,Calle de Juan Álvarez Mendizábal 36
+112,clinic,40.407934,-3.703684,Centro de Salud Lavapiés,Calle de los Embajadores 41
+113,clinic,40.4103252,-3.7077739,Fisioescénica,Calle de la Ruda 5
+114,clinic,40.4209634,-3.704637,Clínica Callao,Calle de Concepción Arenal 8
+115,clinic,40.4229131,-3.7068382,Luna,Calle de la Luna 30
+116,clinic,40.4265059,-3.7061199,Centro de Salud Universidad,NO STREET 9999
+117,clinic,40.4119611,-3.6937885,Centro de Salud Alameda,Calle de la Alameda 5
+118,clinic,40.4124121,-3.6969161,Podólogo,Calle de Moratín 21
+119,clinic,40.4258326,-3.7164099,Sonobebé,Calle de Evaristo San Miguel 19
+120,clinic,40.4258502,-3.7121076,Fised,Calle del Duque de Liria 3
+121,clinic,40.4252198,-3.713764,Centro de Salud Ventura Rodríguez,Calle de Ventura Rodríguez 7
+122,clinic,40.420659,-3.7014952,Instituto Gabriel Simón,Calle de Fuencarral 7
+123,clinic,40.420426,-3.6973478,NO NAME,NO STREET 9999

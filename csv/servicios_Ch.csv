@@ -1,0 +1,92 @@
+,tipo,lat,lon,name,address,Distrito,size,count_rel
+0,college,40.4456104,-3.706672,Centro de enseñanza CENEC,NO STREET 9999,Chamberí,1,0.7098945096758621
+1,college,40.4373652,-3.7154613,Centro de Estudios del Vídeo (CEV),NO STREET 9999,Chamberí,1,0.7098945096758621
+2,college,40.4302083,-3.7077568,Círculo de Baile,Plaza del Conde del Valle Suchil 3,Chamberí,1,0.7098945096758621
+3,college,40.4317009,-3.6921969,Instituto Coordenadas de Gobernanza y Economía Aplicada,Calle de Almagro 25,Chamberí,1,0.7098945096758621
+4,school,40.4369171,-3.705329,Colegio Público San Cristóbal,NO STREET 9999,Chamberí,1,0.7098945096758621
+5,school,40.4298609,-3.7069054,Escuela Profesional Javeriana,NO STREET 9999,Chamberí,1,0.7098945096758621
+6,school,40.441934,-3.6952191,Scuola Statale Italiana,NO STREET 9999,Chamberí,1,0.7098945096758621
+7,school,40.440524,-3.7115228,E.O.I. de Madrid–Jesús Maestro,NO STREET 9999,Chamberí,1,0.7098945096758621
+8,school,40.4421204,-3.6951889,Scuola Materna Italiana,NO STREET 9999,Chamberí,1,0.7098945096758621
+9,school,40.4354795,-3.6974754,Centro de Estudios Financieros,Calle de Viriato 52,Chamberí,1,0.7098945096758621
+10,school,40.432352,-3.7006545,Escuela Popular de Música y Danza Olavide,NO STREET 9999,Chamberí,1,0.7098945096758621
+11,school,40.4389716,-3.7088318,E.E. Alteraciones Graves Desarrollo,NO STREET 9999,Chamberí,1,0.7098945096758621
+12,school,40.4383793,-3.7112447,The Green Monkey; Cursos de idiomas en el Extranjero,Calle de Blasco de Garay 67,Chamberí,1,0.7098945096758621
+13,school,40.4295388,-3.7105049,Enforex,Calle de Baltasar Gracián 4,Chamberí,1,0.7098945096758621
+14,school,40.4329043,-3.7131801,Colegio San Antonio de Padua,NO STREET 9999,Chamberí,1,0.7098945096758621
+15,school,40.4376864,-3.7154308,Residencia Calasanz,NO STREET 9999,Chamberí,1,0.7098945096758621
+16,shop,40.4432275,-3.7139966,Supersol,NO STREET 9999,Chamberí,1,0.7098945096758621
+17,shop,40.4304838,-3.7087762,Supercor,Calle de Vallehermoso 4,Chamberí,1,0.7098945096758621
+18,shop,40.4317711,-3.7096533,Lidl,Calle de Rodríguez San Pedro 22,Chamberí,1,0.7098945096758621
+19,shop,40.4370092,-3.7099635,Lidl,Calle de Galileo 80,Chamberí,1,0.7098945096758621
+20,shop,40.4368215,-3.7143394,Dia Market,Calle de Andrés Mellado 61,Chamberí,1,0.7098945096758621
+21,shop,40.4433395,-3.7033083,Simply Market,Calle de Cristóbal Bordiú 9999,Chamberí,1,0.7098945096758621
+22,shop,40.4316302,-3.7108444,Robin&Co Food Market,NO STREET 9999,Chamberí,1,0.7098945096758621
+23,shop,40.435552,-3.7066426,Dia,Calle de Escosura 16,Chamberí,1,0.7098945096758621
+24,shop,40.4310548,-3.7156809,Aldi,Calle de Gaztambide 4,Chamberí,1,0.7098945096758621
+25,shop,40.4371276,-3.7143185,La Sirena,NO STREET 9999,Chamberí,1,0.7098945096758621
+26,shop,40.4351387,-3.7106616,Dia Market,Calle de Fernández de los Ríos 45,Chamberí,1,0.7098945096758621
+27,shop,40.433127,-3.7039703,Carrefour Market,Calle de Fuencarral 158-160,Chamberí,1,0.7098945096758621
+28,shop,40.4436564,-3.7038401,Lidl,Calle de Bravo Murillo 62,Chamberí,1,0.7098945096758621
+29,shop,40.4343313,-3.7045345,Mercadona,NO STREET 9999,Chamberí,1,0.7098945096758621
+30,shop,40.4349496,-3.7145184,Ahorramás,NO STREET 9999,Chamberí,1,0.7098945096758621
+31,shop,40.4313045,-3.715664,Dia Market,NO STREET 9999,Chamberí,1,0.7098945096758621
+32,shop,40.4314768,-3.7080373,Dia Market,Calle de Rodríguez San Pedro 5,Chamberí,1,0.7098945096758621
+33,shop,40.4394535,-3.6982883,Condis,NO STREET 9999,Chamberí,1,0.7098945096758621
+34,shop,40.4396514,-3.698386,Dia Market,NO STREET 9999,Chamberí,1,0.7098945096758621
+35,shop,40.4316846,-3.6975151,Dia Market,NO STREET 9999,Chamberí,1,0.7098945096758621
+36,shop,40.4422544,-3.7035103,Carrefour,NO STREET 9999,Chamberí,1,0.7098945096758621
+37,shop,40.4335071,-3.6974516,Unide,Calle de Rafael Calvo 4,Chamberí,1,0.7098945096758621
+38,shop,40.4334989,-3.7011461,Dia,NO STREET 9999,Chamberí,1,0.7098945096758621
+39,shop,40.4359439,-3.7038479,Villa de Madrid,NO STREET 9999,Chamberí,1,0.7098945096758621
+40,shop,40.4398831,-3.7065665,La Despensa,NO STREET 9999,Chamberí,1,0.7098945096758621
+41,shop,40.4332674,-3.6982141,Covirán,NO STREET 9999,Chamberí,1,0.7098945096758621
+42,shop,40.4370477,-3.7113872,Hiber,Calle de Blasco de Garay 59,Chamberí,1,0.7098945096758621
+43,shop,40.4388646,-3.713725,Supercor,Calle de Cea Bermúdez 49,Chamberí,1,0.7098945096758621
+44,shop,40.4352887,-3.6919654,Mercadona,Paseo del General Martínez Campos 9999,Chamberí,1,0.7098945096758621
+45,shop,40.4340172,-3.6944901,Dia,Calle de Rafael Calvo 9999,Chamberí,1,0.7098945096758621
+46,shop,40.4383088,-3.6995769,Open 25,NO STREET 9999,Chamberí,1,0.7098945096758621
+47,shop,40.4351286,-3.7005504,Hiber,Calle de la Santisima Trinidad 9999,Chamberí,1,0.7098945096758621
+48,shop,40.4348782,-3.7055802,La Sirena,NO STREET 9999,Chamberí,1,0.7098945096758621
+49,shop,40.4453007,-3.699261,La Plaza de DIA,Calle Maudes 23,Chamberí,1,0.7098945096758621
+50,shop,40.4338736,-3.6942686,Supersol,NO STREET 9999,Chamberí,1,0.7098945096758621
+51,shop,40.4306969,-3.7056095,Market & Go,Calle de San Bernardo 97-99,Chamberí,1,0.7098945096758621
+52,shop,40.4427509,-3.713421,Supersol,NO STREET 9999,Chamberí,1,0.7098945096758621
+53,shop,40.4391923,-3.7100603,Supersol,NO STREET 9999,Chamberí,1,0.7098945096758621
+54,shop,40.4370612,-3.7099599,¡Ay Madre! La Fruta,Calle de Galileo 82,Chamberí,1,0.7098945096758621
+55,shop,40.4329713,-3.7047738,NO NAME,Calle de San Bernardo 121,Chamberí,1,0.7098945096758621
+56,shop,40.4305761,-3.69706,La Antigua Burgalesa,NO STREET 9999,Chamberí,1,0.7098945096758621
+57,shop,40.4363665,-3.7152905,Donde Cris,NO STREET 9999,Chamberí,1,0.7098945096758621
+58,shop,40.4364404,-3.6978411,Don Fruta,NO STREET 9999,Chamberí,1,0.7098945096758621
+59,shop,40.4343021,-3.7007551,Chamberí,NO STREET 9999,Chamberí,1,0.7098945096758621
+60,shop,40.4317796,-3.7111427,Hiperfruta,NO STREET 9999,Chamberí,1,0.7098945096758621
+61,shop,40.4347954,-3.7036661,NO NAME,NO STREET 9999,Chamberí,1,0.7098945096758621
+62,shop,40.4353465,-3.7115385,Don Fruta,NO STREET 9999,Chamberí,1,0.7098945096758621
+63,shop,40.4371461,-3.7128537,Fruterías Santiago,Calle de Guzmán el Bueno 62,Chamberí,1,0.7098945096758621
+64,shop,40.4351027,-3.7069657,Hermanos Delgado,NO STREET 9999,Chamberí,1,0.7098945096758621
+65,shop,40.4331639,-3.7159483,Frujuca,NO STREET 9999,Chamberí,1,0.7098945096758621
+66,shop,40.4334354,-3.7011208,Dhoy,Calle de Trafalgar 26,Chamberí,1,0.7098945096758621
+67,shop,40.4374436,-3.7029204,Ay Madre!,NO STREET 9999,Chamberí,1,0.7098945096758621
+68,shop,40.43389,-3.7064578,Don Fruta,Calle de Fernando el Católico 6,Chamberí,1,0.7098945096758621
+69,shop,40.4368068,-3.6987474,NO NAME,NO STREET 9999,Chamberí,1,0.7098945096758621
+70,shop,40.4366273,-3.6988271,NO NAME,NO STREET 9999,Chamberí,1,0.7098945096758621
+71,shop,40.4365205,-3.7140023,Frutería Jerónimo,"Calle Donoso Cortés, 78, Madrid 9999",Chamberí,1,0.7098945096758621
+72,clinic,40.4312348,-3.7135908,Centro de Salud Guzmán el Bueno,Calle de Guzmán el Bueno 11,Chamberí,1,0.7098945096758621
+73,clinic,40.4311082,-3.7067605,Leven,Plaza del Conde del Valle de Suchil 14,Chamberí,1,0.7098945096758621
+74,clinic,40.4295088,-3.7092051,Centro Médico Conde Duque,Calle del Conde Duque 21,Chamberí,1,0.7098945096758621
+75,clinic,40.4295818,-3.7073977,Ecox 4D,Calle de Alberto Aguilera 3,Chamberí,1,0.7098945096758621
+76,clinic,40.4389029,-3.7071603,Centro de Salud Cea Bermúdez,NO STREET 9999,Chamberí,1,0.7098945096758621
+77,clinic,40.438936,-3.7159761,CeaSalud,Calle de Cea Bermúdez 61,Chamberí,1,0.7098945096758621
+78,clinic,40.4418027,-3.705018,Fuexpert Clinic,Plaza de Juan Zorrilla 3,Chamberí,1,0.7098945096758621
+79,clinic,40.4392594,-3.7063926,Kinect,Calle de Boix y Morer 4,Chamberí,1,0.7098945096758621
+80,clinic,40.4326037,-3.7076807,Blue Moon,Calle de Arapiles 17,Chamberí,1,0.7098945096758621
+81,clinic,40.433192,-3.6997609,Podoactiva,Calle de Santa Feliciana 7,Chamberí,1,0.7098945096758621
+82,clinic,40.4380418,-3.7142712,Centro de Salud Andrés Mellado,NO STREET 9999,Chamberí,1,0.7098945096758621
+83,clinic,40.4296106,-3.7136388,Real Visión,Calle de Santa Cruz de Marcenado 31,Chamberí,1,0.7098945096758621
+84,clinic,40.4325217,-3.7049464,Clínica Zurich,Calle de San Bernardo 113,Chamberí,1,0.7098945096758621
+85,clinic,40.4296142,-3.7049721,Ossium Center,Calle de Carranza 22,Chamberí,1,0.7098945096758621
+86,clinic,40.4371184,-3.6930873,Centro internacional de oftalmología avanzada,Calle de Zurbano 71,Chamberí,1,0.7098945096758621
+87,clinic,40.4440471,-3.6962407,Psiconueve,Calle de María de Guzmán 61,Chamberí,1,0.7098945096758621
+88,clinic,40.4433047,-3.7158665,Clínica Nuevo Parque,NO STREET 9999,Chamberí,1,0.7098945096758621
+89,clinic,40.4458403,-3.7163073,Urgencias Clínica Santa Elena,NO STREET 9999,Chamberí,1,0.7098945096758621
+90,clinic,40.4334797,-3.7063989,Policlínico HM Arapiles,NO STREET 9999,Chamberí,1,0.7098945096758621

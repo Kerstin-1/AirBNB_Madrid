@@ -1,22 +1,22 @@
-;Viviendas;
-Arganzuela;86795;
-Barajas;76260;
-Carabanchel;56595;
-Centro;83575;
-Chamartín;72120;
-Chamberí;80160;
-Ciudad Lineal;79780;
-Fuencarral - El Pardo;99260;
-Hortaleza;55125;
-Latina;115500;
-Moncloa - Aravaca;115270;
-Moratalaz;59285;
-Puente de Vallecas;106585;
-Retiro;44405;
-Salamanca;101740;
-San Blas - Canillejas;74930;
-Tetuán;61920;
-Usera;43520;
-Vicálvaro;30305;
-Villa de Vallecas;67450;
-Villaverde;20370;
+;Viviendas;Precio m2 oct 2020;Variación anual
+Arganzuela;86795;15,1;-0,055
+Barajas;76260;11,6;-0,038
+Carabanchel;56595;12;0,007
+Centro;83575;17,5;-0,073
+Chamartín;72120;16;-0,029
+Chamberí;80160;17,1;-0,065
+Ciudad Lineal;79780;13,4;-0,018
+Fuencarral - El Pardo;99260;12,6;0,002
+Hortaleza;55125;12,6;0,009
+Latina;115500;12,4;0,011
+Moncloa - Aravaca;115270;15,1;0,020
+Moratalaz;59285;11,1;-0,020
+Puente de Vallecas;106585;12,3;-0,001
+Retiro;44405;15,5;-0,054
+Salamanca;101740;17,8;-0,074
+San Blas - Canillejas;74930;12;0,000
+Tetuán;61920;15,4;-0,034
+Usera;43520;11,7;-0,022
+Vicálvaro;30305;10,2;-0,053
+Villa de Vallecas;67450;11,7;0,021
+Villaverde;20370;10,8;-0,029
